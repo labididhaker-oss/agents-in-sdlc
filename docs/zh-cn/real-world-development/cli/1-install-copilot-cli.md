@@ -111,7 +111,7 @@ lastUpdated: 2026-06-30
 - 信任一个目录，以便 Copilot CLI 可以处理其中内容。
 - 确认安装运行正常。
 
-现在 Copilot CLI 已安装完成，接下来为 Copilot 提供一些项目上下文。继续前往[练习 2 - 通过 CLI 使用自定义说明][next-lesson]。
+现在 Copilot CLI 已安装完成，接下来[开始第一个专注的更改][next-lesson]，使用 Copilot CLI 在游戏卡片上显示星级评分。
 
 ## 资源
 
@@ -120,7 +120,7 @@ lastUpdated: 2026-06-30
 - [使用 Copilot CLI][using-copilot-cli]
 
 [previous-lesson]: ../0-prerequisites/
-[next-lesson]: ../2-custom-instructions/
+[next-lesson]: ../2-add-star-rating/
 [install-copilot-cli]: https://docs.github.com/copilot/how-tos/set-up/install-copilot-cli
 [install-npm]: https://docs.github.com/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli#installing-with-npm-all-platforms
 [install-winget]: https://docs.github.com/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli#installing-with-winget-windows

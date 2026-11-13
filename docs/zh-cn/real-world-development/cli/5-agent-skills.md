@@ -106,7 +106,7 @@ description: All changes to code must follow the guidance documented in the repo
 - 了解了 AI 智能体如何使用技能。
 - 在技能的帮助下，创建了一个符合准则的 PR。
 
-技能非常适合处理任务，但如果需要更强大的操作能力，就应该利用[自定义智能体][next-lesson]，下一节就会探索这一点。
+接下来，将结合技能和浏览器工具[创建 QA 自定义智能体][next-lesson]。
 
 ## 资源
 
@@ -115,7 +115,7 @@ description: All changes to code must follow the guidance documented in the repo
 - [Agent Skills 存储库][agent-skills-repo]
 - [awesome-copilot 上的 Agent Skills][awesome-copilot-skills]
 
-[previous-lesson]: ../4-mcp/
-[next-lesson]: ../6-custom-agents/
+[previous-lesson]: ../6-mcp-playwright/
+[next-lesson]: ../7-qa-agent/
 [about-agent-skills]: https://docs.github.com/copilot/concepts/agents/about-agent-skills
 [awesome-copilot-skills]: https://github.com/github/awesome-copilot/tree/main/skills

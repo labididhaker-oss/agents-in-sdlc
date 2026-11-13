@@ -106,7 +106,7 @@ Con la ayuda de una habilidad de agente, has creado una PR nueva que cumple los 
 - aprender cómo utiliza el agente de IA las habilidades.
 - crear una PR que cumple las directrices con ayuda de la habilidad.
 
-Las habilidades son perfectas para tareas concretas, pero para operaciones más amplias conviene aprovechar los [agentes personalizados][next-lesson], que exploraremos a continuación.
+Las habilidades son perfectas para tareas concretas. A continuación, combinarás la skill y las herramientas del navegador en un [agente personalizado de QA][next-lesson].
 
 ## Recursos
 
@@ -115,7 +115,7 @@ Las habilidades son perfectas para tareas concretas, pero para operaciones más 
 - [Repositorio de Agent Skills][agent-skills-repo]
 - [Habilidades de agente en awesome-copilot][awesome-copilot-skills]
 
-[previous-lesson]: ../4-mcp/
-[next-lesson]: ../6-custom-agents/
+[previous-lesson]: ../6-mcp-playwright/
+[next-lesson]: ../7-qa-agent/
 [about-agent-skills]: https://docs.github.com/copilot/concepts/agents/about-agent-skills
 [awesome-copilot-skills]: https://github.com/github/awesome-copilot/tree/main/skills
